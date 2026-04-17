@@ -233,7 +233,7 @@ See [docs/getting-started.md](docs/getting-started.md) for full setup.
 **Kaike Oliveira** — Software Engineer specializing in distributed systems and real-time IoT architectures.
 
 - 💼 LinkedIn: [linkedin.com/in/kaikeoliveira](https://www.linkedin.com/in/kaikeoliveira)
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 🐙 GitHub: [@kaikecesar](https://github.com/kaikecesar)
 
 ## 📝 License
 
